@@ -22,7 +22,7 @@
  "tiles":[
         {
          "id":2,
-         "image":"..\/..\/..\/Downloads\/Wood Floor.png",
+         "image":"woodfloor.png",
          "imageheight":32,
          "imagewidth":32
         }],
