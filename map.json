@@ -961,6 +961,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"modernset_interior",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":736,
          "tileheight":32,
