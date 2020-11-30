@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Meeting Pro"
+                 "value":"MeetingPro"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Meeting Desk"
+                 "value":"MeetingDesk"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Chill Zone 1"
+                 "value":"ChillZoneA"
                 }],
          "type":"tilelayer",
          "visible":true,
