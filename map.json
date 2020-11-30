@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/maps.workadventu.re\/Floor0\/floor0.json"
+                 "value":"\/_\/global\/maps.workadventu.re\/Floor0\/floor0.json"
                 }],
          "type":"tilelayer",
          "visible":true,
