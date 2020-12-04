@@ -109,7 +109,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Meeting#3"
+                 "value":"Meeting3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Meeting#2"
+                 "value":"Meeting2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Meeting#1"
+                 "value":"Meeting1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -262,7 +262,7 @@
          "name":"furnitures",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
